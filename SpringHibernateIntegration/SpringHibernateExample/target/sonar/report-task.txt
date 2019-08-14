@@ -1,0 +1,5 @@
+projectKey=com.shilpi.springmvc:SpringHibernateExample
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.shilpi.springmvc:SpringHibernateExample
+ceTaskId=AWxhLDG4LSosUeiAniHV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWxhLDG4LSosUeiAniHV

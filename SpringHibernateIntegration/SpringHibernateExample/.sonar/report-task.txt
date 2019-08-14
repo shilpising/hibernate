@@ -1,0 +1,5 @@
+projectKey=SpringHibernateExample:project
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/SpringHibernateExample:project
+ceTaskId=AWxhH1_5LSosUeiAniHT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWxhH1_5LSosUeiAniHT
