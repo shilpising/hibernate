@@ -62,7 +62,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-validator</artifactId><!-- hibernate-validator which represents an implementation of this specification. hibernate-validator also provides few of it’s own annotations (@Email, @NotEmpty, etc..) which are not part of the specification. -->
-            <version>5.1.3.Final</version>
+            <version>5.3.5.Final</version>
          </dependency>
          
           <!-- MySQL -->
